@@ -1,0 +1,24 @@
+html,
+body {
+    min-height: calc(100vh);
+    background: whitesmoke;
+    font-family: 'Lobster';
+}
+
+header.page-header {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    text-align: center;
+    background: green;
+    border-bottom: 1px solid #e5e5e5;
+    margin-bottom: 1rem;
+}
+
+article.post {
+    border-radius: 1rem;
+    background: gainsboro;
+}
+#sc{
+    padding: 1rem;
+}
